@@ -112,7 +112,7 @@ body {
   }
   
   .todo-item:hover .todo-delete {
-    visibility: visible; /* Add this line */
+    visibility: visible;
   }
 
   #task-count {
